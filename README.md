@@ -4,8 +4,6 @@ As we already know, swagger is not included in .Net projects by default in from 
 
 Install the package below:
 ```
-Install-Package Swashbuckle.AspNetCore -Version 6.5.0
-```
 dotnet add package Swashbuckle.AspNetCore.SwaggerUI
 ```
 
